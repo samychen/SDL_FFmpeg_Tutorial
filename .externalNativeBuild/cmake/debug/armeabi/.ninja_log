@@ -1,0 +1,4 @@
+# ninja log v5
+2	1947	0	CMakeFiles/SDL2main.dir/src/main/jniLibs/src/main/android/SDL_android_main.c.o	df853b6266f5ffd7
+52	2217	0	CMakeFiles/SDL2main.dir/src/main/cpp/SDLTest.cpp.o	6aad42b9854e4972
+2219	2765	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSDL2main.so	b0b35f527cdc17f5

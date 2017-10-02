@@ -1,0 +1,3 @@
+D:/AndroidProj/SDL_FFmpeg_Tutorial/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir
+D:/AndroidProj/SDL_FFmpeg_Tutorial/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/SDL2main.dir
+D:/AndroidProj/SDL_FFmpeg_Tutorial/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir

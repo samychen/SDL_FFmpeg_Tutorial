@@ -1,0 +1,101 @@
+
+{
+	"buildFiles" : [ "D:/AndroidProj/SDL_FFmpeg_Tutorial/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"F:\\ProgramFile\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\AndroidProj\\SDL_FFmpeg_Tutorial\\app\\.externalNativeBuild\\cmake\\debug\\armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SDL2-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "SDL2",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libSDL2.so",
+			"toolchain" : "3025965813"
+		},
+		"SDL2main-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "SDL2main",
+			"buildCommand" : "F:\\ProgramFile\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\AndroidProj\\SDL_FFmpeg_Tutorial\\app\\.externalNativeBuild\\cmake\\debug\\armeabi --target SDL2main",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/ProgramFile/Android/sdk/ndk-bundle/sysroot -DSDL2main_EXPORTS -I..\\..\\..\\..\\src\\main\\jniLibs\\src -I..\\..\\..\\..\\src\\main\\jniLibs\\include  -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "D:/AndroidProj/SDL_FFmpeg_Tutorial/app/src/main/jniLibs/src/main/android/SDL_android_main.c",
+					"workingDirectory" : "D:/AndroidProj/SDL_FFmpeg_Tutorial/app/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/ProgramFile/Android/sdk/ndk-bundle/sysroot  -DSDL2main_EXPORTS -I..\\..\\..\\..\\src\\main\\jniLibs\\src -I..\\..\\..\\..\\src\\main\\jniLibs\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/AndroidProj/SDL_FFmpeg_Tutorial/app/src/main/cpp/SDLTest.cpp",
+					"workingDirectory" : "D:/AndroidProj/SDL_FFmpeg_Tutorial/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "D:/AndroidProj/SDL_FFmpeg_Tutorial/app/build/intermediates/cmake/debug/obj/armeabi/libSDL2main.so",
+			"toolchain" : "3025965813"
+		},
+		"avcodec-57-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avcodec-57",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libavcodec-57.so",
+			"toolchain" : "3025965813"
+		},
+		"avfilter-6-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avfilter-6",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libavfilter-6.so",
+			"toolchain" : "3025965813"
+		},
+		"avformat-57-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avformat-57",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libavformat-57.so",
+			"toolchain" : "3025965813"
+		},
+		"avutil-55-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avutil-55",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libavutil-55.so",
+			"toolchain" : "3025965813"
+		},
+		"swresample-2-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "swresample-2",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libswresample-2.so",
+			"toolchain" : "3025965813"
+		},
+		"swscale-4-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "swscale-4",
+			"buildType" : "debug",
+			"output" : "../../../../src/main/jniLibs/armeabi/libswscale-4.so",
+			"toolchain" : "3025965813"
+		}
+	},
+	"toolchains" : 
+	{
+		"3025965813" : 
+		{
+			"cCompilerExecutable" : "F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

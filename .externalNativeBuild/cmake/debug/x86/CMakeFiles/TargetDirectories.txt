@@ -1,0 +1,3 @@
+/Users/yangshaohong/Desktop/Course/Android/project/Dream_20170814_SDL_FFmpeg_Demo/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/yangshaohong/Desktop/Course/Android/project/Dream_20170814_SDL_FFmpeg_Demo/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/yangshaohong/Desktop/Course/Android/project/Dream_20170814_SDL_FFmpeg_Demo/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/native-lib.dir
