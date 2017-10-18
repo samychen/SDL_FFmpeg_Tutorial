@@ -88,6 +88,7 @@ endif(CMAKE_COMPILER_IS_GNUCXX)
 
 include_directories(src/main/jniLibs/src)
 include_directories(src/main/jniLibs/include)
+include_directories(src/main/cpp)
 
 
 # Creates and names a library, sets it as either STATIC
@@ -106,7 +107,12 @@ add_library( # Sets the name of the library.
              # file are automatically included.
              #配置SDL程序入口函数
              src/main/jniLibs/src/main/android/SDL_android_main.c
-             src/main/cpp/SDLTest.cpp )
+             #src/main/cpp/SDLTest.cpp
+             src/main/cpp/AudioPlay.cpp
+             src/main/cpp/ffmpeg.cpp
+             src/main/cpp/main.cpp
+             #src/main/cpp/AudioPlay2.cpp
+             )
 
 # Searches for a specified prebuilt library and stores the path as a
 # variable. Because system libraries are included in the search path by

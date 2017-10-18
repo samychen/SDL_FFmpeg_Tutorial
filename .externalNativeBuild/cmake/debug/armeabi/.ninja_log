@@ -1,4 +1,10 @@
 # ninja log v5
-2	1947	0	CMakeFiles/SDL2main.dir/src/main/jniLibs/src/main/android/SDL_android_main.c.o	df853b6266f5ffd7
-52	2217	0	CMakeFiles/SDL2main.dir/src/main/cpp/SDLTest.cpp.o	6aad42b9854e4972
-2219	2765	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSDL2main.so	b0b35f527cdc17f5
+7	1583	0	CMakeFiles/SDL2main.dir/src/main/jniLibs/src/main/android/SDL_android_main.c.o	291de04b2480ff19
+99	2009	0	CMakeFiles/SDL2main.dir/src/main/cpp/AudioPlay.cpp.o	ead63d40e4156953
+250	2014	0	CMakeFiles/SDL2main.dir/src/main/cpp/main.cpp.o	53cec244c379bac
+167	2244	0	CMakeFiles/SDL2main.dir/src/main/cpp/ffmpeg.cpp.o	ecddeac27d315d45
+3140	4437	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSDL2main.so	8579ef20471ca198
+8	730	0	CMakeFiles/SDL2main.dir/src/main/cpp/main.cpp.o	53cec244c379bac
+730	1102	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSDL2main.so	8579ef20471ca198
+7	754	0	CMakeFiles/SDL2main.dir/src/main/cpp/main.cpp.o	53cec244c379bac
+754	1128	0	../../../../build/intermediates/cmake/debug/obj/armeabi/libSDL2main.so	8579ef20471ca198

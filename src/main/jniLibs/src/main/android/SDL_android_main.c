@@ -80,7 +80,6 @@ JNIEXPORT int JNICALL Java_org_libsdl_app_SDLActivity_nativeInit(JNIEnv* env, jc
 
 
 
-
 #endif /* __ANDROID__ */
 
 /* vi: set ts=4 sw=4 expandtab: */

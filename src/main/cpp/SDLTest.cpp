@@ -446,6 +446,41 @@ void mixaudio(void *unused, Uint8 *stream, int len)
         sounds[i].dpos += amount;
     }
 }
+
+int sfp_refresh_thread(void *opaque){
+    int data_count=0;
+    int pcm_buffer_size=4096;
+    char *pcm_buffer=(char *)malloc(pcm_buffer_size);
+    bool quit=false;
+    FILE *pFile=fopen("/storage/emulated/0/Test.pcm", "rb+");
+    if(pFile==NULL){
+        LOG_I("can't open this file\n");
+        return -1;
+    }
+    while(!quit){
+        if (fread(pcm_buffer, 1, pcm_buffer_size, pFile) != pcm_buffer_size){
+            // Loop
+            fseek(pFile, 0, SEEK_SET);
+            fread(pcm_buffer, 1, pcm_buffer_size, pFile);
+            data_count=0;
+        }
+        //        LOG_I("Now Playing %10d Bytes data.\n",data_count);
+        data_count+=pcm_buffer_size;
+        //Set audio buffer (PCM data)
+        audio_chunk = (Uint8 *) pcm_buffer;
+        //Audio buffer length
+        audio_len =pcm_buffer_size;
+        audio_pos = audio_chunk;
+        if(audio_len>0){
+            SDL_Delay(22);
+        } else{
+            quit=true;
+        }
+    }
+    free(pcm_buffer);
+    SDL_Quit();
+    return 0;
+}
 int main(int argc, char *argv[]) {
  /** 函数调用步骤如下:
  *
@@ -473,7 +508,7 @@ int main(int argc, char *argv[]) {
     }
     //SDL_AudioSpec
     SDL_AudioSpec wanted_spec;
-    wanted_spec.freq = 44100;
+    wanted_spec.freq = 32000;
     wanted_spec.format = AUDIO_S16SYS;
     wanted_spec.channels = 2;
     wanted_spec.silence = 0;
@@ -497,6 +532,8 @@ int main(int argc, char *argv[]) {
     //Play
     SDL_PauseAudio(0);
     bool quit=false;
+    SDL_Thread *video_tid;
+//    video_tid = SDL_CreateThread(sfp_refresh_thread,NULL,NULL);
     while(!quit){
         if (fread(pcm_buffer, 1, pcm_buffer_size, pFile) != pcm_buffer_size){
             // Loop
@@ -562,3 +599,4 @@ void PlaySound(char *file)
     sounds[index].dpos = 0;
     SDL_UnlockAudio();
 }
+

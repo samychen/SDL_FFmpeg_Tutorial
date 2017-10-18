@@ -46,16 +46,32 @@ build CMakeFiles/SDL2main.dir/src/main/jniLibs/src/main/android/SDL_android_main
   DEFINES = -DSDL2main_EXPORTS
   DEP_FILE = CMakeFiles\SDL2main.dir\src\main\jniLibs\src\main\android\SDL_android_main.c.o.d
   FLAGS = -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -fPIC
-  INCLUDES = -I../../../../src/main/jniLibs/src -I../../../../src/main/jniLibs/include
+  INCLUDES = -I../../../../src/main/jniLibs/src -I../../../../src/main/jniLibs/include -I../../../../src/main/cpp
   IN_ABS = D:\AndroidProj\SDL_FFmpeg_Tutorial\app\src\main\jniLibs\src\main\android\SDL_android_main.c
   OBJECT_DIR = CMakeFiles\SDL2main.dir
   OBJECT_FILE_DIR = CMakeFiles\SDL2main.dir\src\main\jniLibs\src\main\android
-build CMakeFiles/SDL2main.dir/src/main/cpp/SDLTest.cpp.o: CXX_COMPILER__SDL2main ../../../../src/main/cpp/SDLTest.cpp
+build CMakeFiles/SDL2main.dir/src/main/cpp/AudioPlay.cpp.o: CXX_COMPILER__SDL2main ../../../../src/main/cpp/AudioPlay.cpp
   DEFINES = -DSDL2main_EXPORTS
-  DEP_FILE = CMakeFiles\SDL2main.dir\src\main\cpp\SDLTest.cpp.o.d
+  DEP_FILE = CMakeFiles\SDL2main.dir\src\main\cpp\AudioPlay.cpp.o.d
   FLAGS = -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC
-  INCLUDES = -I../../../../src/main/jniLibs/src -I../../../../src/main/jniLibs/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
-  IN_ABS = D:\AndroidProj\SDL_FFmpeg_Tutorial\app\src\main\cpp\SDLTest.cpp
+  INCLUDES = -I../../../../src/main/jniLibs/src -I../../../../src/main/jniLibs/include -I../../../../src/main/cpp -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
+  IN_ABS = D:\AndroidProj\SDL_FFmpeg_Tutorial\app\src\main\cpp\AudioPlay.cpp
+  OBJECT_DIR = CMakeFiles\SDL2main.dir
+  OBJECT_FILE_DIR = CMakeFiles\SDL2main.dir\src\main\cpp
+build CMakeFiles/SDL2main.dir/src/main/cpp/ffmpeg.cpp.o: CXX_COMPILER__SDL2main ../../../../src/main/cpp/ffmpeg.cpp
+  DEFINES = -DSDL2main_EXPORTS
+  DEP_FILE = CMakeFiles\SDL2main.dir\src\main\cpp\ffmpeg.cpp.o.d
+  FLAGS = -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC
+  INCLUDES = -I../../../../src/main/jniLibs/src -I../../../../src/main/jniLibs/include -I../../../../src/main/cpp -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
+  IN_ABS = D:\AndroidProj\SDL_FFmpeg_Tutorial\app\src\main\cpp\ffmpeg.cpp
+  OBJECT_DIR = CMakeFiles\SDL2main.dir
+  OBJECT_FILE_DIR = CMakeFiles\SDL2main.dir\src\main\cpp
+build CMakeFiles/SDL2main.dir/src/main/cpp/main.cpp.o: CXX_COMPILER__SDL2main ../../../../src/main/cpp/main.cpp
+  DEFINES = -DSDL2main_EXPORTS
+  DEP_FILE = CMakeFiles\SDL2main.dir\src\main\cpp\main.cpp.o.d
+  FLAGS = -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC
+  INCLUDES = -I../../../../src/main/jniLibs/src -I../../../../src/main/jniLibs/include -I../../../../src/main/cpp -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
+  IN_ABS = D:\AndroidProj\SDL_FFmpeg_Tutorial\app\src\main\cpp\main.cpp
   OBJECT_DIR = CMakeFiles\SDL2main.dir
   OBJECT_FILE_DIR = CMakeFiles\SDL2main.dir\src\main\cpp
 
@@ -66,7 +82,7 @@ build CMakeFiles/SDL2main.dir/src/main/cpp/SDLTest.cpp.o: CXX_COMPILER__SDL2main
 #############################################
 # Link the shared library ..\..\..\..\build\intermediates\cmake\release\obj\armeabi\libSDL2main.so
 
-build ../../../../build/intermediates/cmake/release/obj/armeabi/libSDL2main.so: CXX_SHARED_LIBRARY_LINKER__SDL2main CMakeFiles/SDL2main.dir/src/main/jniLibs/src/main/android/SDL_android_main.c.o CMakeFiles/SDL2main.dir/src/main/cpp/SDLTest.cpp.o | ../../../../src/main/jniLibs/armeabi/libSDL2.so ../../../../src/main/jniLibs/armeabi/libavcodec-57.so ../../../../src/main/jniLibs/armeabi/libavfilter-6.so ../../../../src/main/jniLibs/armeabi/libavformat-57.so ../../../../src/main/jniLibs/armeabi/libavutil-55.so ../../../../src/main/jniLibs/armeabi/libswresample-2.so ../../../../src/main/jniLibs/armeabi/libswscale-4.so F$:/ProgramFile/Android/sdk/ndk-bundle/platforms/android-9/arch-arm/usr/lib/liblog.so
+build ../../../../build/intermediates/cmake/release/obj/armeabi/libSDL2main.so: CXX_SHARED_LIBRARY_LINKER__SDL2main CMakeFiles/SDL2main.dir/src/main/jniLibs/src/main/android/SDL_android_main.c.o CMakeFiles/SDL2main.dir/src/main/cpp/AudioPlay.cpp.o CMakeFiles/SDL2main.dir/src/main/cpp/ffmpeg.cpp.o CMakeFiles/SDL2main.dir/src/main/cpp/main.cpp.o | ../../../../src/main/jniLibs/armeabi/libSDL2.so ../../../../src/main/jniLibs/armeabi/libavcodec-57.so ../../../../src/main/jniLibs/armeabi/libavfilter-6.so ../../../../src/main/jniLibs/armeabi/libavformat-57.so ../../../../src/main/jniLibs/armeabi/libavutil-55.so ../../../../src/main/jniLibs/armeabi/libswresample-2.so ../../../../src/main/jniLibs/armeabi/libswscale-4.so F$:/ProgramFile/Android/sdk/ndk-bundle/platforms/android-9/arch-arm/usr/lib/liblog.so
   LANGUAGE_COMPILE_FLAGS = -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=9 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG
   LINK_FLAGS = -Wl,--exclude-libs,libgcc.a --sysroot F:/ProgramFile/Android/sdk/ndk-bundle/platforms/android-9/arch-arm -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Wl,-z,noexecstack -Qunused-arguments -Wl,-z,relro -Wl,-z,now
   LINK_LIBRARIES = ../../../../src/main/jniLibs/armeabi/libSDL2.so ../../../../src/main/jniLibs/armeabi/libavcodec-57.so ../../../../src/main/jniLibs/armeabi/libavfilter-6.so ../../../../src/main/jniLibs/armeabi/libavformat-57.so ../../../../src/main/jniLibs/armeabi/libavutil-55.so ../../../../src/main/jniLibs/armeabi/libswresample-2.so ../../../../src/main/jniLibs/armeabi/libswscale-4.so -llog -lm "F:/ProgramFile/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/libgnustl_static.a" "-latomic"

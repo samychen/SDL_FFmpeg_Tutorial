@@ -437,6 +437,8 @@ int main(int argc, char *argv[]) {
     * [循环播放数据]
     * SDL_Delay(): 延时等待播放完成。
     * */
+    const char *configuration = avcodec_configuration();
+    __android_log_print(ANDROID_LOG_INFO,"main","%s",configuration);
     //第一步：注册所有组件
     av_register_all();
     //支持网络流输入
@@ -444,16 +446,16 @@ int main(int argc, char *argv[]) {
     //第二步：打开视频输入文件
     //参数一：封装格式上下文->AVFormatContext->包含了视频信息(视频格式、大小等等...)
     AVFormatContext *pFormatCtx = avformat_alloc_context();
-    const char *cinputFilePath = "/storage/emulated/0/Nocturne.m4a";
+    const char *cinputFilePath = "/storage/emulated/0/Test.pcm";
     //参数二：打开文件(入口文件)->url
     int avformat_open_result = avformat_open_input(&pFormatCtx, cinputFilePath, NULL, NULL);
-    if (avformat_open_result != 0) {
-        //获取异常信息
-        char *error_info;
-        av_strerror(avformat_open_result, error_info, 1024);
-        __android_log_print(ANDROID_LOG_INFO, "main", "异常信息：%s", error_info);
-        return 0;
-    }
+//    if (avformat_open_result != 0) {
+//        //获取异常信息
+//        char *error_info;
+//        av_strerror(avformat_open_result, error_info, 1024);
+//        __android_log_print(ANDROID_LOG_INFO, "main", "异常信息1：%s", error_info);
+//        return 0;
+//    }
     //第三步：查找视频文件信息
     //参数一：封装格式上下文->AVFormatContext
     //参数二：配置
@@ -463,7 +465,7 @@ int main(int argc, char *argv[]) {
         //获取失败
         char *error_info;
         av_strerror(avformat_find_stream_info_result, error_info, 1024);
-        __android_log_print(ANDROID_LOG_INFO, "main", "异常信息：%s", error_info);
+        __android_log_print(ANDROID_LOG_INFO, "main", "异常信息2：%s", error_info);
         return 0;
     }
     // Dump valid information onto standard error可忽略
@@ -495,7 +497,7 @@ int main(int argc, char *argv[]) {
     if(avcodec_open2_result<0) {
         char *error_info;
         av_strerror(avcodec_open2_result, error_info, 1024);
-        __android_log_print(ANDROID_LOG_INFO, "main", "异常信息：%s", error_info);
+        __android_log_print(ANDROID_LOG_INFO, "main", "异常信息3：%s", error_info);
         return -1;
     }
     //把结构体改为指针
@@ -534,7 +536,7 @@ int main(int argc, char *argv[]) {
     pFile=fopen("/storage/emulated/0/Test.wav", "wb");
 	fseek(pFile, 44, SEEK_SET); //预留文件头的位置
 #else
-    pFile=fopen("/storage/emulated/0/Nocturne.m4a", "wb");
+    pFile=fopen("/storage/emulated/0/Test.pcm", "wb");
 #endif
 
     if(pFile==NULL){
