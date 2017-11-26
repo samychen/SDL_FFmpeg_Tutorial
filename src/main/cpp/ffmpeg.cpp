@@ -42,11 +42,11 @@ int audio_frame_size  = 1024;
 int InitInput(char * Filename,AVFormatContext ** iframe_c,AVInputFormat** iinputframe)
 {
     int i = 0;
-    nRet = avformat_open_input(iframe_c, Filename,(*iinputframe), NULL);
+    nRet = avformat_open_input(iframe_c, Filename,NULL, NULL);
     if (nRet != 0)
     {
         av_strerror(nRet, szError, 256);
-//        LOG_I(szError);
+        LOG_I("%s%d",szError,nRet);
         LOG_I("Call avformat_open_input function failed!\n");
         return 0;
     }
