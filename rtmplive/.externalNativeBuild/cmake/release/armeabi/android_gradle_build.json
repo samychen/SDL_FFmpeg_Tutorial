@@ -1,12 +1,9 @@
 
 {
-	"buildFiles" : 
-	[
-		"I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/CMakeLists.txt"
-	],
+	"buildFiles" : [ "F:/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/CMakeLists.txt" ],
 	"cleanCommands" : 
 	[
-		"F:\\ProgramFile\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build I:\\Lenovo\\AndroidProj\\SDL_FFmpeg_Tutorial\\rtmplive\\.externalNativeBuild\\cmake\\release\\armeabi --target clean"
+		"F:\\ProgramFile\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\SDL_FFmpeg_Tutorial\\rtmplive\\.externalNativeBuild\\cmake\\release\\armeabi --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -15,24 +12,24 @@
 		{
 			"abi" : "armeabi",
 			"artifactName" : "publish",
-			"buildCommand" : "F:\\ProgramFile\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build I:\\Lenovo\\AndroidProj\\SDL_FFmpeg_Tutorial\\rtmplive\\.externalNativeBuild\\cmake\\release\\armeabi --target publish",
+			"buildCommand" : "F:\\ProgramFile\\Android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\SDL_FFmpeg_Tutorial\\rtmplive\\.externalNativeBuild\\cmake\\release\\armeabi --target publish",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/ProgramFile/Android/sdk/ndk-bundle/sysroot  -Dpublish_EXPORTS -II:\\Lenovo\\AndroidProj\\SDL_FFmpeg_Tutorial\\rtmplive\\src\\main\\cpp\\..\\..\\..\\..\\rtmp\\include\\librtmp -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC    -c ",
-					"src" : "I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/publish_jni.cpp",
-					"workingDirectory" : "I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi"
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/ProgramFile/Android/sdk/ndk-bundle/sysroot  -Dpublish_EXPORTS -IF:\\SDL_FFmpeg_Tutorial\\rtmplive\\src\\main\\cpp\\..\\..\\..\\..\\rtmp\\include\\librtmp -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "F:/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/publish_jni.cpp",
+					"workingDirectory" : "F:/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi"
 				},
 				
 				{
-					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/ProgramFile/Android/sdk/ndk-bundle/sysroot  -Dpublish_EXPORTS -II:\\Lenovo\\AndroidProj\\SDL_FFmpeg_Tutorial\\rtmplive\\src\\main\\cpp\\..\\..\\..\\..\\rtmp\\include\\librtmp -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC    -c ",
-					"src" : "I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/Rtmp.cpp",
-					"workingDirectory" : "I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi"
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=F:/ProgramFile/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=F:/ProgramFile/Android/sdk/ndk-bundle/sysroot  -Dpublish_EXPORTS -IF:\\SDL_FFmpeg_Tutorial\\rtmplive\\src\\main\\cpp\\..\\..\\..\\..\\rtmp\\include\\librtmp -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem F:\\ProgramFile\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem F:/ProgramFile/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "F:/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/Rtmp.cpp",
+					"workingDirectory" : "F:/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi"
 				}
 			],
-			"output" : "I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/build/intermediates/cmake/release/obj/armeabi/libpublish.so",
+			"output" : "F:/SDL_FFmpeg_Tutorial/rtmplive/build/intermediates/cmake/release/obj/armeabi/libpublish.so",
 			"toolchain" : "3025965813"
 		},
 		"rtmp-Release-armeabi" : 
@@ -40,7 +37,7 @@
 			"abi" : "armeabi",
 			"artifactName" : "rtmp",
 			"buildType" : "release",
-			"output" : "I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/../../../../rtmp/lib/armeabi/librtmp.so",
+			"output" : "F:/SDL_FFmpeg_Tutorial/rtmplive/src/main/cpp/../../../../rtmp/lib/armeabi/librtmp.so",
 			"toolchain" : "3025965813"
 		}
 	},

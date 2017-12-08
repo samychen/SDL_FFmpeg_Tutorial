@@ -42,7 +42,7 @@ rule CXX_SHARED_LIBRARY_LINKER__publish
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = F:\ProgramFile\Android\sdk\cmake\3.6.4111459\bin\cmake.exe -HI:\Lenovo\AndroidProj\SDL_FFmpeg_Tutorial\rtmplive\src\main\cpp -BI:\Lenovo\AndroidProj\SDL_FFmpeg_Tutorial\rtmplive\.externalNativeBuild\cmake\release\armeabi
+  command = F:\ProgramFile\Android\sdk\cmake\3.6.4111459\bin\cmake.exe -HF:\SDL_FFmpeg_Tutorial\rtmplive\src\main\cpp -BF:\SDL_FFmpeg_Tutorial\rtmplive\.externalNativeBuild\cmake\release\armeabi
   description = Re-running CMake...
   generator = 1
 
