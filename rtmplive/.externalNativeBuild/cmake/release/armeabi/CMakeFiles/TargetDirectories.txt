@@ -1,0 +1,3 @@
+I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/publish.dir
+I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,885 @@
+[
+    {
+        "outputFile": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3817,
+                        "endLine": 99,
+                        "endColumn": 19,
+                        "endOffset": 3952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3958,
+                        "endLine": 104,
+                        "endColumn": 19,
+                        "endOffset": 4107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endLine": 15,
+                    "endColumn": 19,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4134,
+                        "endLine": 110,
+                        "endColumn": 19,
+                        "endOffset": 4241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4247,
+                        "endLine": 114,
+                        "endColumn": 19,
+                        "endOffset": 4349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endLine": 27,
+                    "endColumn": 19,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3291,
+                        "endLine": 82,
+                        "endColumn": 19,
+                        "endOffset": 3498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3504,
+                        "endLine": 90,
+                        "endColumn": 19,
+                        "endOffset": 3704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 957,
+                    "endLine": 55,
+                    "endColumn": 19,
+                    "endOffset": 1453
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1923,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 2438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1458,
+                    "endLine": 75,
+                    "endColumn": 19,
+                    "endOffset": 2032
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2444,
+                        "endLine": 66,
+                        "endColumn": 19,
+                        "endOffset": 3037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2037,
+                    "endLine": 79,
+                    "endColumn": 19,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3043,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 3156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endLine": 83,
+                    "endColumn": 19,
+                    "endOffset": 2272
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3162,
+                        "endLine": 74,
+                        "endColumn": 19,
+                        "endOffset": 3285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2277,
+                    "endColumn": 47,
+                    "endOffset": 2320
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 47,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2325,
+                    "endColumn": 54,
+                    "endOffset": 2375
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2380,
+                    "endColumn": 45,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 338,
+                        "endColumn": 45,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endColumn": 39,
+                    "endOffset": 2461
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 39,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2466,
+                    "endColumn": 39,
+                    "endOffset": 2501
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 39,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2506,
+                    "endColumn": 41,
+                    "endOffset": 2543
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 241,
+                        "endColumn": 41,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2548,
+                    "endColumn": 38,
+                    "endOffset": 2582
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 38,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2587,
+                    "endColumn": 37,
+                    "endOffset": 2620
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 37,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2625,
+                    "endColumn": 39,
+                    "endOffset": 2660
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\dimen.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 39,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2665,
+                    "endColumn": 56,
+                    "endOffset": 2717
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 75,
+                        "endColumn": 56,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2722,
+                    "endColumn": 55,
+                    "endOffset": 2773
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 55,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2778,
+                    "endColumn": 43,
+                    "endOffset": 2817
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 43,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2822,
+                    "endColumn": 46,
+                    "endOffset": 2864
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2869,
+                    "endColumn": 120,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 120,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endColumn": 89,
+                    "endOffset": 3075
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4381,
+                        "endColumn": 89,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3080,
+                    "endColumn": 111,
+                    "endOffset": 3187
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4567,
+                        "endColumn": 111,
+                        "endOffset": 4674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3192,
+                    "endColumn": 121,
+                    "endOffset": 3309
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4680,
+                        "endColumn": 121,
+                        "endOffset": 4797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3314,
+                    "endColumn": 54,
+                    "endOffset": 3364
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1671,
+                        "endColumn": 54,
+                        "endOffset": 1721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3369,
+                    "endColumn": 56,
+                    "endOffset": 3421
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1789,
+                        "endColumn": 56,
+                        "endOffset": 1841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3426,
+                    "endColumn": 54,
+                    "endOffset": 3476
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1727,
+                        "endColumn": 54,
+                        "endOffset": 1777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3481,
+                    "endColumn": 51,
+                    "endOffset": 3528
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1847,
+                        "endColumn": 51,
+                        "endOffset": 1894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3533,
+                    "endColumn": 45,
+                    "endOffset": 3574
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1274,
+                        "endColumn": 51,
+                        "endOffset": 1321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3579,
+                    "endColumn": 57,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 57,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 54,
+                    "endOffset": 3687
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1615,
+                        "endColumn": 54,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 3692,
+                    "endColumn": 214,
+                    "endOffset": 3902
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 214,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 3907,
+                    "endColumn": 156,
+                    "endOffset": 4059
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 162,
+                        "endOffset": 465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4064,
+                    "endColumn": 414,
+                    "endOffset": 4474
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 414,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4479,
+                    "endColumn": 145,
+                    "endOffset": 4620
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1103,
+                        "endColumn": 145,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4625,
+                    "endColumn": 54,
+                    "endOffset": 4675
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 54,
+                        "endOffset": 1436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4680,
+                    "endColumn": 52,
+                    "endOffset": 4728
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1500,
+                        "endColumn": 52,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4733,
+                    "endColumn": 56,
+                    "endOffset": 4785
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1442,
+                        "endColumn": 56,
+                        "endOffset": 1494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4790,
+                    "endColumn": 59,
+                    "endOffset": 4845
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1554,
+                        "endColumn": 59,
+                        "endOffset": 1609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4850,
+                    "endColumn": 82,
+                    "endOffset": 4928
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3710,
+                        "endLine": 93,
+                        "endColumn": 48,
+                        "endOffset": 3794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4933,
+                    "endColumn": 93,
+                    "endOffset": 5022
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4472,
+                        "endColumn": 93,
+                        "endOffset": 4561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5027,
+                    "endLine": 127,
+                    "endColumn": 9,
+                    "endOffset": 5551
+                },
+                "from": {
+                    "file": "D:\\AndroidProj\\samychen\\SDL_FFmpeg_Tutorial\\mscV5PlusDemo\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 6,
+                        "startOffset": 59,
+                        "endLine": 11,
+                        "endColumn": 9,
+                        "endOffset": 592
+                    }
+                }
+            }
+        ]
+    }
+]

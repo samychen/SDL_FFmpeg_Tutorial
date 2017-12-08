@@ -27,20 +27,20 @@ extern "C"
 #include "stdint.h"
 };
 
-//#pragma comment(lib,"avformat.lib")
-//#pragma comment(lib,"avcodec.lib")
-//#pragma comment(lib,"avdevice.lib")
-//#pragma comment(lib,"avfilter.lib")
-//#pragma comment(lib,"avutil.lib")
-//#pragma comment(lib,"postproc.lib")
-//#pragma comment(lib,"swresample.lib")
-//#pragma comment(lib,"swscale.lib")
+#pragma comment(lib,"avformat.lib")
+#pragma comment(lib,"avcodec.lib")
+#pragma comment(lib,"avdevice.lib")
+#pragma comment(lib,"avfilter.lib")
+#pragma comment(lib,"avutil.lib")
+#pragma comment(lib,"postproc.lib")
+#pragma comment(lib,"swresample.lib")
+#pragma comment(lib,"swscale.lib")
 
 
 //#define INPUTURL   "test.flv"
-#define INPUTURL     "rtmp://live.hkstv.hk.lxdns.com/live/hks"
+#define INPUTURL     "rtmp://192.168.1.107/oflaDemo/test"
 //#define OUTPUTURL  "testnew.flv";
-#define OUTPUTURL    "rtmp://192.168.1.107/oflaDemo/test"
+#define OUTPUTURL    "rtmp://192.168.1.107/oflaDemo/testnew"
 
 //video param
 extern int m_dwWidth;

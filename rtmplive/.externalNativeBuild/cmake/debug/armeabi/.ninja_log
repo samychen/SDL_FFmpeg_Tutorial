@@ -1,0 +1,4 @@
+# ninja log v5
+2	9849	0	CMakeFiles/publish.dir/publish_jni.cpp.o	d100750871c49a96
+113	9898	0	CMakeFiles/publish.dir/Rtmp.cpp.o	9c4f27a5b8cb23b
+9899	12191	0	I:/Lenovo/AndroidProj/SDL_FFmpeg_Tutorial/rtmplive/build/intermediates/cmake/debug/obj/armeabi/libpublish.so	8c14b0bd333a78d7

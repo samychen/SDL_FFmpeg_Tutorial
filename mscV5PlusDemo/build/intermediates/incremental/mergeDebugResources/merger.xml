@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res"/><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\build\generated\res\rs\debug"/><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res"><file name="cancel_button" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable\cancel_button.xml" qualifiers="" type="drawable"/><file name="list_bg_color" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable\list_bg_color.xml" qualifiers="" type="drawable"/><file name="main_setting_btn_np" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable\main_setting_btn_np.xml" qualifiers="" type="drawable"/><file name="ok_button" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable\ok_button.xml" qualifiers="" type="drawable"/><file name="setting" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable\setting.png" qualifiers="" type="drawable"/><file name="setting_p" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable\setting_p.png" qualifiers="" type="drawable"/><file name="bg" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_left" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_left.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_left_f" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_left_f.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_left_n" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_left_n.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_left_p" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_left_p.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_right" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_right.xml" qualifiers="hdpi-v4" type="drawable"/><file name="btn_right_f" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_right_f.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_right_n" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_right_n.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_right_p" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\btn_right_p.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_login" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\button_login.xml" qualifiers="hdpi-v4" type="drawable"/><file name="cancel" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\cancel.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="cancel_p" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\cancel_p.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="editbox" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\editbox.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="edittext_name" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\edittext_name.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="head" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\head.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="login" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\login.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_p" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\login_p.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic_0" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\mic_0.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic_1" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\mic_1.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic_2" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\mic_2.png" qualifiers="hdpi-v4" type="drawable"/><file name="mic_3" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\mic_3.png" qualifiers="hdpi-v4" type="drawable"/><file name="name_left" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\name_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="name_right" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\name_right.png" qualifiers="hdpi-v4" type="drawable"/><file name="ok" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\ok.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ok_d" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\ok_d.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ok_p" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\ok_p.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="pane_bg" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\pane_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="superman" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-hdpi\superman.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-ldpi\icon.png" qualifiers="ldpi-v4" type="drawable"/><file name="icon" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\drawable-mdpi\icon.png" qualifiers="mdpi-v4" type="drawable"/><file name="iatdemo" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\iatdemo.xml" qualifiers="" type="layout"/><file name="isrdemo" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\isrdemo.xml" qualifiers="" type="layout"/><file name="ivw_activity" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\ivw_activity.xml" qualifiers="" type="layout"/><file name="list_items" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\list_items.xml" qualifiers="" type="layout"/><file name="main" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\main.xml" qualifiers="" type="layout"/><file name="oneshot_activity" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\oneshot_activity.xml" qualifiers="" type="layout"/><file name="title" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\title.xml" qualifiers="" type="layout"/><file name="ttsdemo" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\ttsdemo.xml" qualifiers="" type="layout"/><file name="understander" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\understander.xml" qualifiers="" type="layout"/><file name="wake_activity" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\layout\wake_activity.xml" qualifiers="" type="layout"/><file path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\values\colors.xml" qualifiers=""><drawable name="layout_backgroud">#000000</drawable><drawable name="line_background">#161823</drawable><color name="white">#FFFFFF</color><color name="list_backgroud_color">#2fb3cb</color><color name="title_color">#0f8ec5</color><color name="content_color">#737373</color></file><file path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\values\dimen.xml" qualifiers=""><dimen name="margin_">10dp</dimen><dimen name="pading_">5dp</dimen><dimen name="btn_size">22sp</dimen><dimen name="txt_size">18sp</dimen><dimen name="line_height">1dp</dimen></file><file path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">讯飞语音示例v5+</string><string name="app_id">56fe20b5</string><string name="example_explain">本示例为讯飞语音Android平台开发者提供语音听写、语法识别、语义理解和语音合成等代码样例，旨在让用户能够依据该示例快速开发出基于语音接口的应用程序。</string><string name="text_tts_source">科大讯飞作为中国最大的智能语音技术提供商，在智能语音技术领域有着长期的研究积累，并在中文语音合成、语音识别、口语评测等多项技术上拥有国际领先的成果。科大讯飞是我国唯一以语音技术为产业化方向的“国家863计划成果产业化基地”…</string><string name="text_tts_source_en">iFLYTEK is a national key software enterprise dedicated to the research of intelligent speech and language technologies, development of software and chip products, provision of speech information services, and integration of E-government systems. The intelligent speech technology of iFLYTEK, the core technology of the company, represents the top level in the world.</string><string name="text_isr_abnf_hint">\t上传内容为：\n\t#ABNF 1.0 gb2312;\n\tlanguage zh-CN;\n\tmode voice;\n\troot $main;\n\t$main = $place1 到$place2 ;\n\t$place1 = 北京 | 武汉 | 南京 | 天津 | 东京;\n\t$place2 = 上海 | 合肥;</string><string name="text_understand_hint">\t您可以说：\n\t今天的天气怎么样?\n\t北京到上海的火车?\n\t来首歌吧?\n\n\t更多语义请登录：\n\thttp://aiui.xfyun.cn/ \n\t配置您的专属语义吧!</string><string name="text_begin">请开始说话…</string><string name="text_begin_recognizer">开始音频流识别</string><string name="text_upload_contacts">上传联系人</string><string name="text_upload_userwords">上传用户词表</string><string name="text_upload_success">上传成功</string><string name="text_userword_empty">词表下载失败或内容为空</string><string name="text_download_success">下载成功</string><string name="pref_key_iat_show">iat_show</string><string name="pref_title_iat_show">显示听写界面</string><string name="pref_key_translate">translate</string><string name="pref_title_translate">翻译</string><string-array name="voicer_cloud_entries">
+        <item>小燕</item>
+        <item>小宇</item>
+        <item>凯瑟琳</item>
+        <item>亨利</item>
+        <item>玛丽</item>
+        <item>小研</item>
+        <item>小琪</item>
+        <item>小峰</item>
+        <item>小梅</item>
+        <item>小莉</item>
+        <item>小蓉</item>
+        <item>小芸</item>
+        <item>小坤</item>
+        <item>小强 </item>
+        <item>小莹</item>
+        <item>小新</item>
+        <item>楠楠</item>
+        <item>老孙</item>
+    </string-array><string-array name="voicer_cloud_values">
+        <item>xiaoyan</item>
+        <item>xiaoyu</item>
+        <item>catherine</item>
+        <item>henry</item>
+        <item>vimary</item>
+        <item>vixy</item>
+        <item>xiaoqi</item>
+        <item>vixf</item>
+        <item>xiaomei</item>
+        <item>xiaolin</item>
+        <item>xiaorong</item>
+        <item>xiaoqian</item>
+        <item>xiaokun</item>
+        <item>xiaoqiang</item>
+        <item>vixying</item>
+        <item>xiaoxin</item>
+        <item>nannan</item>
+        <item>vils</item>
+    </string-array><string-array name="voicer_local_entries">
+        <item>小燕</item>
+        <item>小峰</item>
+    </string-array><string-array name="voicer_local_values">
+        <item>xiaoyan</item>
+        <item>xiaofeng</item>
+    </string-array><string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array><string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array><string formatted="false" name="tts_toast_format">缓冲进度为%d%%，播放进度为%d%%</string><string-array name="language_entries">
+        <item>普通话</item>
+        <item>粤语</item>
+        <item>英语</item>
+    </string-array><string-array name="language_values">
+        <item>mandarin</item>
+        <item>cantonese</item>
+        <item>en_us</item>
+    </string-array><string-array name="punc_entries">
+        <item>有标点</item>
+        <item>无标点</item>
+    </string-array><string-array name="punc_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array><string name="example_explain_wake">唤醒是指通过说出特定的唤醒词来唤醒处于休眠状态下的设备，又分为唤醒和唤醒+识别。</string><string name="wake_demo_hint">请点击“开始唤醒”后读出您在开放平台购买的唤醒词，当引擎计算得分大于您设置的门限值时，即可进行唤醒。</string><string name="oneshot_demo_hint">请点击“唤醒+识别”后读出您在开放平台购买的唤醒词+语法中指定的识别对象，当引擎计算得分大于您设置的门限值时，即可进行唤醒+识别。</string><string name="oneshot_resource_hint">本示例识别词语为“张三|李四|张海洋”，请开发者将语法文件中的唤醒词字段替换，本地语法定义详见demo工程的asset/wake.bnf文件。</string></file><file path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\values\styles.xml" qualifiers=""><style name="dialog" parent="@android:style/Theme.Dialog">
+  <item name="android:windowFrame">@null</item>
+  <item name="android:windowIsFloating">true</item>
+  <item name="android:windowIsTranslucent">true</item>
+  <item name="android:windowNoTitle">true</item>
+  <item name="android:background">@android:color/transparent</item>
+  <item name="android:windowBackground">@android:color/transparent</item>
+  <item name="android:backgroundDimEnabled">true</item>
+  <item name="android:backgroundDimAmount">0.6</item>
+ </style></file><file name="iat_setting" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\xml\iat_setting.xml" qualifiers="" type="xml"/><file name="tts_setting" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\xml\tts_setting.xml" qualifiers="" type="xml"/><file name="understand_setting" path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\main\res\xml\understand_setting.xml" qualifiers="" type="xml"/></source><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\build\generated\res\rs\debug"/><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\AndroidProj\samychen\SDL_FFmpeg_Tutorial\mscV5PlusDemo\src\debug\res"/></dataSet><mergedItems/></merger>
