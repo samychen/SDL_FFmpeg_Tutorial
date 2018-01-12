@@ -26,7 +26,7 @@ void custom_log(void *ptr, int level, const char* fmt, va_list vl){
     //LOGE(fmt, vl);
 }
 
-JNIEXPORT jint JNICALL Java_com_tz_dream_sdl_ffmpeg_demo_StreamActivity_stream
+JNIEXPORT jint JNICALL Java_com_samychen_gracefulwrapper_liveplayer_StreamActivity_stream
         (JNIEnv *env, jobject ins, jstring inputurl_, jstring outputurl_) {
     const char *inputurl = (*env)->GetStringUTFChars(env,inputurl_, 0);
     const char *outputurl = (*env)->GetStringUTFChars(env,outputurl_, 0);
@@ -153,9 +153,10 @@ JNIEXPORT jint JNICALL Java_com_tz_dream_sdl_ffmpeg_demo_StreamActivity_stream
     (*env)->ReleaseStringUTFChars(env, inputurl_, inputurl);
     (*env)->ReleaseStringUTFChars(env, outputurl_, outputurl);
 }
-JNIEXPORT void JNICALL Java_com_tz_dream_sdl_ffmpeg_demo_StreamActivity_stop
+JNIEXPORT void JNICALL Java_com_samychen_gracefulwrapper_liveplayer_StreamActivity_stop
         (JNIEnv *env, jobject ins) {
     if (isPlay) {
         isPlay = 0;
     }
 }
+

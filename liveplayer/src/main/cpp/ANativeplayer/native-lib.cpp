@@ -114,7 +114,7 @@ void *process(void *args) {
 }
 
 JNIEXPORT void JNICALL
-Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1play(
+Java_com_samychen_gracefulwrapper_liveplayer_DNPlayer_native_1play(
         JNIEnv *env,
         jobject instance, jstring url_) {
     const char *url = env->GetStringUTFChars(url_, 0);
@@ -133,7 +133,7 @@ Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1play(
 
 
 JNIEXPORT void JNICALL
-Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1set_1display(JNIEnv *env, jobject instance,
+Java_com_samychen_gracefulwrapper_liveplayer_DNPlayer_native_1set_1display(JNIEnv *env, jobject instance,
                                                         jobject surface) {
     if (window) {
         ANativeWindow_release(window);
@@ -147,7 +147,7 @@ Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1set_1display(JNIEnv *env, job
 }
 
 JNIEXPORT void JNICALL
-Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1stop(JNIEnv *env, jobject instance) {
+Java_com_samychen_gracefulwrapper_liveplayer_DNPlayer_native_1stop(JNIEnv *env, jobject instance) {
     if (path) {
         free(path);
         path = 0;
@@ -174,7 +174,7 @@ Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1stop(JNIEnv *env, jobject ins
 }
 
 JNIEXPORT void JNICALL
-Java_com_tz_dream_sdl_ffmpeg_demo_DNPlayer_native_1release(JNIEnv *env, jobject instance) {
+Java_com_samychen_gracefulwrapper_liveplayer_DNPlayer_native_1release(JNIEnv *env, jobject instance) {
     if (window)
         ANativeWindow_release(window);
     window = 0;

@@ -28,7 +28,7 @@ void av_log_txt(void *ptr, int level, const char *fmt, va_list vl) {
 }
 extern "C" {
 JNIEXPORT jint JNICALL
-Java_com_tz_dream_sdl_ffmpeg_demo_ANativeWindowPlayerActivity_play(JNIEnv *env, jclass type,
+Java_com_samychen_gracefulwrapper_liveplayer_ANativeWindowPlayerActivity_play(JNIEnv *env, jclass type,
                                                                    jstring url_, jobject surface) {
     // sd卡中的视频文件地址,可自行修改或者通过jni传入
     const char *file_name = env->GetStringUTFChars(url_, 0);
@@ -173,7 +173,7 @@ Java_com_tz_dream_sdl_ffmpeg_demo_ANativeWindowPlayerActivity_play(JNIEnv *env, 
 }
 
 JNIEXPORT jint JNICALL
-Java_com_tz_dream_sdl_ffmpeg_demo_ANativeWindowPlayerActivity_decode(JNIEnv *env, jclass type,
+Java_com_samychen_gracefulwrapper_liveplayer_ANativeWindowPlayerActivity_decode(JNIEnv *env, jclass type,
                                                                      jstring inputurl_,
                                                                      jstring outputurl_) {
     AVFormatContext *pFormatCtx;
