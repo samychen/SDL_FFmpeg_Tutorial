@@ -31,6 +31,13 @@ public class StreamActivity extends AppCompatActivity {
                 Log.e("Info",info);
             }
         });
+        Button stopButton = (Button) findViewById(R.id.button_stop);
+        stopButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                stop();
+            }
+        });
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -40,7 +47,13 @@ public class StreamActivity extends AppCompatActivity {
     }
 
     //JNI
-    public native int stream(String inputurl, String outputurl);
+    static native void stream(String inputurl, String outputurl);
+    static native void stop();
 
-
+    static{
+        System.loadLibrary("SDL2");
+        System.loadLibrary("SDL2_image");
+        System.loadLibrary("SDL2_mixer");
+        System.loadLibrary("SDL2main");
+    }
 }

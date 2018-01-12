@@ -5,7 +5,11 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 录音权限 -->
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -24,7 +28,12 @@
             android:name="org.libsdl.app.SDLActivity"
             android:label="@string/app_name" />
         <activity android:name=".StreamActivity" />
-        <activity android:name=".Main2Activity"/>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".AudioTrackJNIActivity"></activity>
+        <activity
+            android:name=".ANativeWindowPlayerActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".OpenSLESActivity"></activity>
     </application>
 
 </manifest>

@@ -106,10 +106,21 @@ include_directories(src/main/cpp)
 add_library( SDL2main
              SHARED
              src/main/jniLibs/src/main/android/SDL_android_main.c
-             src/main/cpp/SDLTest.cpp
-
+             src/main/cpp/SamychenPush.c
+             #src/main/cpp/SDLTest.cpp
+             #src/main/cpp/sdlplayer/SDL_Lesson.c
+             src/main/cpp/sdlplayer/SDL_Lesson2.c
+             #src/main/cpp/sdlplayer/SyncVideo.c
+             #src/main/cpp/sdlplayer/SyncAudio.c
+             #src/main/cpp/sdlplayer/tutorial06.c
+             #src/main/cpp/mix_player.cpp
+             src/main/cpp/ANativeplayer/ANativeplayer.cpp
+             src/main/cpp/ANativeplayer/Audio2.cpp
+             src/main/cpp/ANativeplayer/Video2.cpp
+             src/main/cpp/ANativeplayer/native-lib.cpp
              )
 find_library( log-lib log )
 #注意必须是SDL2main在SDL2前,注意SDL的顺序
-target_link_libraries(SDL2main SDL2 SDL2_image SDL2_mixer avcodec-57 avfilter-6 avformat-57 avutil-55 postproc-54 swresample-2 swscale-4
-                       ${log-lib} )
+target_link_libraries(SDL2main SDL2 SDL2_image SDL2_mixer
+avcodec-57 avfilter-6 avformat-57 avutil-55 postproc-54 swresample-2 swscale-4
+                       ${log-lib} OpenSLES  z log android)

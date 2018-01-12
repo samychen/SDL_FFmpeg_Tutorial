@@ -23,4 +23,29 @@
         android:text="FFmpeg推流"
         android:onClick="clickSDLPlayer"/>
 
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="案例二：实现SDL播放PCM文件"-->
+        <!--android:onClick="clickPcmVoice"/>-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="案例：推送本地文件"
+        android:onClick="clickStreamPush"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="案例：使用ANativeWindow播放视频"
+        android:onClick="clickNative"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/path"
+        android:text="屌丝男士.mov"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="案例：使用OpenSL+ANativeWindow播放直播流"
+        android:onClick="clickOpenSL"/>
 </LinearLayout>
